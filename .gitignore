@@ -1,0 +1,114 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln
+*.csproj
+*.unityproj
+*.userprefs
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Dependency directories
+Externals/
+Mono/etc/
+
+# Auto-generated
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+
+# Builds
+Builds/
+builds/
+*.app
+*.ipa
+*.dylib
+*.framework
+*.aab
+*.apk
+
+# Unity - Special files to ignore
+*.csproj
+*.sln
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-UnityScript.unityproj
+CSharp.rsp
+*.pidb
+*.unityproj
+*.sln.docstates
+project.hash
+
+# Build results
+Bin/
+Obj/
+[Tt]est[Rr]esults/
+[Bb]uildResults/
+
+# Intermediate files
+*.cache
+
+# ReScript
+Assembly-CSharp.csproj.user
+Assembly-CSharp-Editor.csproj.user
+Assembly-CSharp-firstpass-editor.csproj.user
+Assembly-CSharp-Editor-firstpass.csproj.user
+Assembly-UnityScript-editor.unityproj.user
+
+# Nuget
+*.nupkg
+*.snupkg
+Nuget.Config
+Nuget.props
+Nuget.targets
+
+# Project-specific (optional)
+*.orig
+*.orig.*
+
+# Crashlytics
+crashlytics.properties
+crashlytics-build.properties
+
+# Backup files
+*.bak
+*.backup
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Unity specific
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/boot.config
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Exclude Assets/Scripts/Json/LitJson (keep this folder if needed)
+/Assets/Scripts/Json/LitJson/

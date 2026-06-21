@@ -1,0 +1,6 @@
+[
+{"id":1,"res":"Bullet/Obj/1","moveSpeed":20,"lifeTime":3,"count":1},
+{"id":2,"res":"Bullet/Obj/2","moveSpeed":20,"lifeTime":3,"count":2},
+{"id":3,"res":"Bullet/Obj/3","moveSpeed":20,"lifeTime":3,"count":3},
+{"id":4,"res":"Bullet/Obj/4","moveSpeed":20,"lifeTime":3,"count":5}
+]

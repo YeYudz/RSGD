@@ -1,0 +1,11 @@
+[
+{"nodeId":1,"nodeType":"Battle","monsterGroupId":101,"nextNodeId":2},
+{"nodeId":2,"nodeType":"Battle","monsterGroupId":102,"nextNodeId":3},
+{"nodeId":3,"nodeType":"Shop","shopId":1,"nextNodeId":4},
+{"nodeId":4,"nodeType":"Battle","monsterGroupId":103,"nextNodeId":5},
+{"nodeId":5,"nodeType":"Battle","monsterGroupId":104,"nextNodeId":6},
+{"nodeId":6,"nodeType":"Shop","shopId":1,"nextNodeId":7},
+{"nodeId":7,"nodeType":"Rest","nextNodeId":8},
+{"nodeId":8,"nodeType":"Battle","monsterGroupId":105,"nextNodeId":9},
+{"nodeId":9,"nodeType":"Boss","monsterGroupId":201,"nextNodeId":0}
+]

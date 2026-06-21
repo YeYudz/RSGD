@@ -1,0 +1,11 @@
+[
+{"id":1,"itemPicRes":"ShopItemPics/1","txtTip":"恢复20%生命值","price":100,"levelBonus":0},
+{"id":2,"itemPicRes":"ShopItemPics/2","txtTip":"恢复50%生命值","price":150,"levelBonus":0},
+{"id":3,"itemPicRes":"ShopItemPics/3","txtTip":"恢复100%生命值","price":300,"levelBonus":0},
+{"id":4,"itemPicRes":"ShopItemPics/4","txtTip":"增加5攻击力","price":300,"levelBonus":0},
+{"id":5,"itemPicRes":"ShopItemPics/5","txtTip":"增加10攻击力","price":500,"levelBonus":0},
+{"id":6,"itemPicRes":"ShopItemPics/6","txtTip":"攻击力提升100%","price":400,"levelBonus":0},
+{"id":7,"itemPicRes":"ShopItemPics/7","txtTip":"攻击力提升150%","price":600,"levelBonus":0},
+{"id":8,"itemPicRes":"ShopItemPics/8","txtTip":"直接提升1级","price":250,"levelBonus":1},
+{"id":9,"itemPicRes":"ShopItemPics/9","txtTip":"直接提升3级","price":600,"levelBonus":3}
+]

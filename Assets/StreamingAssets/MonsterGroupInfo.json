@@ -1,0 +1,8 @@
+[
+{"groupId":101,"spawnList":[{"monsterId":0,"count":5},{"monsterId":1,"count":5}]},
+{"groupId":102,"spawnList":[{"monsterId":1,"count":8},{"monsterId":2,"count":8}]},
+{"groupId":103,"spawnList":[{"monsterId":2,"count":10},{"monsterId":3,"count":10}]},
+{"groupId":104,"spawnList":[{"monsterId":3,"count":15},{"monsterId":4,"count":15}]},
+{"groupId":105,"spawnList":[{"monsterId":1,"count":10},{"monsterId":2,"count":10},{"monsterId":3,"count":10},{"monsterId":4,"count":10}]},
+{"groupId":201,"spawnList":[{"monsterId":5,"count":1}]}
+]

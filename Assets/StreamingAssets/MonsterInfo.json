@@ -1,0 +1,8 @@
+[
+{"id":0,"res":"Monster/Obj/Z1","animator":"Animator/Monster/Aggresive","atk":2,"moveSpeed":3,"hp":40,"atkOffTime":0.8,"atkRange":2.5,"type":1,"bulletRes":"","bulletId":0,"shootCount":0,"giveEXP":4,"giveMoney":10,"roundSpeed":100},
+{"id":1,"res":"Monster/Obj/Z2","animator":"Animator/Monster/Broken","atk":3,"moveSpeed":2,"hp":40,"atkOffTime":1.2,"atkRange":2.5,"type":1,"bulletRes":"","bulletId":0,"shootCount":0,"giveEXP":6,"giveMoney":10,"roundSpeed":100},
+{"id":2,"res":"Monster/Obj/Z3","animator":"Animator/Monster/Calm","atk":4,"moveSpeed":2,"hp":60,"atkOffTime":1,"atkRange":2.5,"type":1,"bulletRes":"","bulletId":0,"shootCount":0,"giveEXP":8,"giveMoney":15,"roundSpeed":100},
+{"id":3,"res":"Monster/Obj/Z4","animator":"Animator/Monster/Broken","atk":4,"moveSpeed":1,"hp":50,"atkOffTime":1.5,"atkRange":2.5,"type":1,"bulletRes":"","bulletId":0,"shootCount":0,"giveEXP":8,"giveMoney":15,"roundSpeed":100},
+{"id":4,"res":"Monster/Obj/Z1","animator":"Animator/Monster/Calm","atk":5,"moveSpeed":1,"hp":30,"atkOffTime":3,"atkRange":9,"type":2,"bulletRes":"Bullet/Obj/2","bulletId":2,"shootCount":2,"giveEXP":10,"giveMoney":5,"roundSpeed":100},
+{"id":5,"res":"Monster/Obj/Z5","animator":"Animator/Monster/Broken","atk":10,"moveSpeed":6,"hp":1000,"atkOffTime":2,"atkRange":4,"type":1,"bulletRes":"","bulletId":0,"shootCount":0,"giveEXP":20,"giveMoney":50,"roundSpeed":100}
+]

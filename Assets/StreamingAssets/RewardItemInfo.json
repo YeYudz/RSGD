@@ -1,0 +1,11 @@
+[
+{"id":1,"itemPicRes":"RewardItemPics/1","txtTip":"恢复5%生命值"},
+{"id":2,"itemPicRes":"RewardItemPics/2","txtTip":"恢复10%生命值"},
+{"id":3,"itemPicRes":"RewardItemPics/3","txtTip":"恢复20%生命值"},
+{"id":4,"itemPicRes":"RewardItemPics/4","txtTip":"增加2攻击力"},
+{"id":5,"itemPicRes":"RewardItemPics/5","txtTip":"增加5攻击力"},
+{"id":6,"itemPicRes":"RewardItemPics/6","txtTip":"增加10攻击力"},
+{"id":7,"itemPicRes":"RewardItemPics/7","txtTip":"攻击力提升10%"},
+{"id":8,"itemPicRes":"RewardItemPics/8","txtTip":"攻击力提升30%"},
+{"id":9,"itemPicRes":"RewardItemPics/9","txtTip":"攻击力提升50%"}
+]
