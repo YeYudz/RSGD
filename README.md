@@ -2,7 +2,7 @@
 
 一款基于 Unity 开发的 Roguelike 射击游戏 Demo，展示了完整的游戏架构设计和核心玩法。
 
-## 🎮 游戏特性
+##  游戏特性
 
 ### 核心玩法
 - **Roguelike 节点系统**: 战斗节点、商店节点、休息节点、Boss 节点
@@ -18,7 +18,7 @@
 - **技能乘法叠加**: E/Q 技能倍率相乘，避免数值膨胀
 - **Billboard 血条**: 怪物血条始终朝向摄像机（只狼风格）
 
-## 🏗️ 架构设计
+##  架构设计
 
 ```
 ProjectBase/          # 基础框架模块
@@ -50,7 +50,7 @@ UI/                   # 界面面板
 └── GameOverPanel     # 游戏结束
 ```
 
-## 📁 项目结构
+##  项目结构
 
 | 目录 | 说明 |
 |------|------|
@@ -61,7 +61,7 @@ UI/                   # 界面面板
 | `Assets/Scripts/Data/` | 数据模型定义 |
 | `Assets/StreamingAssets/` | JSON 配置文件 |
 
-## 🎯 角色介绍
+##  角色介绍
 
 | 角色 | 定位 | E技能 | Q技能 |
 |------|------|-------|-------|
@@ -70,7 +70,7 @@ UI/                   # 界面面板
 | **角色3** | 远程/火力 | 火力全开（+150%攻击力） | 狂热（无限弹药） |
 | **角色4** | 远程/重火力 | 重型打击（+150%攻击力） | 无双（额外多发子弹） |
 
-## 🛠️ 技术栈
+##  技术栈
 
 - **引擎**: Unity 2022.x
 - **语言**: C#
@@ -79,7 +79,7 @@ UI/                   # 界面面板
 - **序列化**: LitJson
 - **事件系统**: 自定义 EventCenter（观察者模式）
 
-## 🚀 快速开始
+##  快速开始
 
 ### 环境要求
 - Unity 2022.3.x 或更高版本
@@ -98,7 +98,7 @@ UI/                   # 界面面板
 - **Q**: 使用 Q 技能
 - **R**: 换弹
 
-## 📊 核心系统详解
+##  核心系统详解
 
 ### 事件中心 (EventCenter)
 基于泛型和委托实现的事件系统，支持任意类型参数传递：
@@ -127,7 +127,7 @@ float totalMultiplier = skillEAtkMultiplier * skillQAtkMultiplier;
 float totalBonus = totalMultiplier - 1f;
 ```
 
-## 📝 开发日志
+##  开发日志
 
 ### v1.0.0
 - 完成基础架构搭建
@@ -136,14 +136,12 @@ float totalBonus = totalMultiplier - 1f;
 - 实现波次怪物生成
 - 实现对象池优化
 
-## 📄 许可证
+##  许可证
 
 MIT License
 
-## 🤝 贡献
+##  贡献
 
 欢迎提交 Issue 和 Pull Request！
 
----
-
-*Made with ❤️ for Game Development*
+*Made with for Game Development*
